@@ -1,4 +1,7 @@
 # HR-Analytics-Dashboard-using-Power-BI
+
+PPT for this dashboard:https://docs.google.com/presentation/d/19KpDG28IFeamp1QuQFCjDlMNAyueKAwy/edit?usp=sharing&ouid=103163200349206689294&rtpof=true&sd=true
+
 This project focuses on analyzing employee attrition data to identify key factors contributing to turnover within an organization. Built an interactive dashboard using Power BI with calculated measures and slicers for deeper insights.
 🔧 Key Features:
 Data cleaning and preprocessing (null handling, duplicates, spelling corrections)
